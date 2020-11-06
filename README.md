@@ -11,7 +11,7 @@ I was always curious about how the things work, how to build things. And program
 
 - :dog: I love dog's, and animals in general.
 - :earth_americas: I hope some day the world will be a better place to live.
-- :film_frames: I love movies and series.. I :red_heart: Netflix.
+- :camera: I love movies and series.. I :heart: Netflix.
 - :world_map: I want to travel arround.
 
 #### Contact me :raised_hand:
