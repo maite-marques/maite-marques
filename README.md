@@ -17,3 +17,9 @@ I was always curious about how the things work, how to build things. And program
 #### Contact me :raised_hand:
 
 - 📫 You can find me on LinkedIn https://www.linkedin.com/in/maitemcaetano :relaxed:
+
+https://github-readme-stats.vercel.app/api?username=maite-marques&theme=chartreuse-dark&show_icons=true&hide_border=true
+
+https://github-readme-streak-stats.herokuapp.com/?user=maite-marques&theme=chartreuse-dark&hide_border=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=maite-marques&layout=compact&theme=chartreuse-dark&hide_border=true
