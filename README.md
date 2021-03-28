@@ -27,12 +27,14 @@ I was always curious about how the things work, how to build things. And program
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=maite-marques&theme=chartreuse&hide_border=true" />
     </td>
   </tr>
+</table>
+<table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maite-marques&layout=compact&theme=chartreuse&hide_border=true" />
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@maite_marques&layout=compact&hide_border=true" alt="Wakatime stats">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@maitemarques&layout=compact&hide_border=true" alt="Wakatime stats">
     </td>
   </tr>
 </table>
