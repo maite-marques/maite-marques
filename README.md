@@ -18,8 +18,21 @@ I was always curious about how the things work, how to build things. And program
 
 - 📫 You can find me on LinkedIn https://www.linkedin.com/in/maitemcaetano :relaxed:
 
-<img src="https://github-readme-stats.vercel.app/api?username=maite-marques&theme=synthwave&show_icons=true&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maite-marques&theme=synthwave&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maite-marques&layout=compact&theme=synthwave&hide_border=true" />
+<table>
+  <tr>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=maite-marques&theme=chartreuse&show_icons=true&hide_border=true" />
+    </td>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maite-marques&theme=chartreuse&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maite-marques&layout=compact&theme=chartreuse&hide_border=true" />
+    </td>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@maite_marques&layout=compact&hide_border=true" alt="Wakatime stats">
+    </td>
+  </tr>
+</table>
