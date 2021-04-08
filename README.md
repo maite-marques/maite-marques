@@ -4,15 +4,14 @@ I was always curious about how the things work, how to build things. And program
 
 #### Work, work, work :sparkles:
 
-- 🔭 I’m currently working as a front end developer for the <a href="https://www.breachsecurenow.com">Secure Now</a> with the react universe.
-- 🌱 I’m learning redux, how to use ui-material :nail_care: designs, react admin, and so on..
+- 🔭 I’m currently working as Front-end Specialist @ <a href="https://www.betrybe.com/">Trybe</a>.
 
 #### Let's have some fun :grin: !
 
 - :dog: I love dog's, and animals in general.
 - :earth_americas: I hope some day the world will be a better place to live.
 - :camera: I love movies and series.. I :heart: Netflix.
-- :world_map: I want to travel around.
+- :world_map: I want to travel around the world.
 
 #### Contact me :raised_hand:
 
