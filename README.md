@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I was always curious about how the things work, how to build things. And programming allows me to do that. To build things, starting from scratch and see it working at the end. It is so satisfying. 
+I was always curious about how the things work, how to build things. And programming allows me to do that. To build things, starting from scratch and see it working at the end. It's so satisfying. 
 
 #### Work, work, work :sparkles:
 
