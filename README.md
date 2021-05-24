@@ -16,6 +16,7 @@ I was always curious about how the things work, how to build things. And program
 #### Contact me :raised_hand:
 
 - 📫 You can find me on LinkedIn https://www.linkedin.com/in/maitemcaetano :relaxed:
+- Contact me by email maite.marques184@gmail.com :relaxed:
 
 <table>
   <tr>
@@ -37,3 +38,4 @@ I was always curious about how the things work, how to build things. And program
     </td>
   </tr>
 </table>
+The github stats it was used based on <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats Card</a>.
