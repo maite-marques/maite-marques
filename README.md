@@ -4,7 +4,7 @@ I was always curious about how things work and how to build them. Programming al
 
 #### Work, work, work :sparkles:
 
-- 🔭  I’m currently working as Front-end Specialist @ <a href="https://www.betrybe.com/">Trybe</a>.
+- 🔭  I’m currently working as Software Engineer @<a href="https://mercadolibre.com/">Mercado Livre</a>.
 
 #### Let's have some fun :grin: !
 
@@ -17,8 +17,10 @@ I was always curious about how things work and how to build them. Programming al
 
 - 📫 You can find me on LinkedIn https://www.linkedin.com/in/maitemcaetano :relaxed:
 - Contact me by email maite.marques184@gmail.com :relaxed:
-
-<table>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maite-marques&theme=radical&hide_border=true" />
+</div>
+<!-- <table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
       <img src="https://github-readme-stats.vercel.app/api?username=maite-marques&theme=radical&show_icons=true&hide_border=true" />
@@ -38,6 +40,6 @@ I was always curious about how things work and how to build them. Programming al
       <img alt="Maitê Activity Chart" src="https://activity-graph.herokuapp.com/graph?username=maite-marques&bg_color=010017&color=ffffff&line=b5179e&point=f72585&hide_border=true&area_color=0077b6&area=true" />
     </td>
   </tr>
-</table>
+</table> -->
 
 The github stats it based on <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats Card</a>.
